@@ -10,3 +10,22 @@ body, html {
     height: 100%;
     margin: 0;
 }
+
+.header img {
+  float: left;
+  width: 70px;
+  height: 70px;
+  background: none  ;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.header h1 {
+  position: relative;
+  margin: 0;
+  height: 0;
+  top: 25px;
+  left: 15px;
+  font-family: sans-serif;
+  color: white;
+}
