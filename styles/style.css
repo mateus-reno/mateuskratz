@@ -567,40 +567,40 @@ About Me Section
   margin-top: 20px;
 }
 #about .social-icons .icon-facebook {
-  background: #ffffff url('../img/icon-facebook-red.png') center center no-repeat;
+  background: #ffffff url('../images/icon-facebook-red') center center no-repeat;
 }
 #about .social-icons .icon-facebook:hover {
-  background: #df5757 url('../img/icon-facebook-white.png') center center no-repeat;
+  background: #df5757 url('../images/icon-facebook-white.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter {
-  background: #ffffff url('../img/icon-twitter-red.png') center center no-repeat;
+  background: #ffffff url('../images/icon-twitter-red.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter:hover {
-  background: #df5757 url('../img/icon-twitter-white.png') center center no-repeat;
+  background: #df5757 url('../images/icon-twitter-white.png') center center no-repeat;
 }
 #about .social-icons .icon-skype {
-  background: #ffffff url('../img/icon-skype-red.png') center center no-repeat;
+  background: #ffffff url('../images/icon-skype-red.png') center center no-repeat;
 }
 #about .social-icons .icon-skype:hover {
-  background: #df5757 url('../img/icon-skype-white.png') center center no-repeat;
+  background: #df5757 url('../images/icon-skype-white.png') center center no-repeat;
 }
 #about .social-icons .icon-dribbble {
-  background: #ffffff url('../img/icon-dribbble-red.png') center center no-repeat;
+  background: #ffffff url('../images/icon-dribbble-red.png') center center no-repeat;
 }
 #about .social-icons .icon-dribbble:hover {
-  background: #df5757 url('../img/icon-dribbble-white.png') center center no-repeat;
+  background: #df5757 url('../images/icon-dribbble-white.png') center center no-repeat;
 }
 #about .social-icons .icon-github {
-  background: #ffffff url('../img/icon-github-red.png') center center no-repeat;
+  background: #ffffff url('../images/icon-github-red.png') center center no-repeat;
 }
 #about .social-icons .icon-github:hover {
-  background: #df5757 url('../img/icon-github-white.png') center center no-repeat;
+  background: #df5757 url('../images/icon-github-white.png') center center no-repeat;
 }
 #about .social-icons .icon-stackoverflow {
-  background: #ffffff url('../img/icon-stackoverflow-red.png') center center no-repeat;
+  background: #ffffff url('../images/icon-stackoverflow-red.png') center center no-repeat;
 }
 #about .social-icons .icon-stackoverflow:hover {
-  background: #df5757 url('../img/icon-stackoverflow-white.png') center center no-repeat;
+  background: #df5757 url('../images/icon-stackoverflow-white.png') center center no-repeat;
 }
 
 /* ==========================================================================
@@ -1234,11 +1234,11 @@ Testimonials Section
 }
 .da-arrows-prev {
   left: 20%;
-  background: transparent url('../img/arrow-left.png') no-repeat top left;
+  background: transparent url('../images/arrow-left.png') no-repeat top left;
 }
 .da-arrows-next {
   right: 20%;
-  background: transparent url('../img/arrow-right.png') no-repeat top left;
+  background: transparent url('../images/arrow-right.png') no-repeat top left;
 }
 .da-slide-current .block-cite,
 .da-slide-current blockquote,
@@ -2617,11 +2617,11 @@ Media Queries
   }
   .da-arrows-prev {
     left: 30%;
-    background: transparent url('../img/arrow-left.png') no-repeat top left;
+    background: transparent url('../images/arrow-left.png') no-repeat top left;
   }
   .da-arrows-next {
     right: 30%;
-    background: transparent url('../img/arrow-right.png') no-repeat top left;
+    background: transparent url('../images/arrow-right.png') no-repeat top left;
   }
 }
 /* Medium devices (desktops, 992px and up) */
@@ -2669,11 +2669,11 @@ Media Queries
   }
   .da-arrows-prev {
     left: 40%;
-    background: transparent url('../img/arrow-left.png') no-repeat top left;
+    background: transparent url('../images/arrow-left.png') no-repeat top left;
   }
   .da-arrows-next {
     right: 40%;
-    background: transparent url('../img/arrow-right.png') no-repeat top left;
+    background: transparent url('../images/arrow-right.png') no-repeat top left;
   }
   .da-arrows span {
     opacity: 0;
@@ -2684,7 +2684,7 @@ Media Queries
   background-size: 27px 31px;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url(/img/toptal_icon.png);
+  background-image: url(/images/toptal_icon.png);
 }
 
 .note_text{
