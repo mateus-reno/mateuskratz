@@ -98,7 +98,7 @@ a:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  border: 2px solid #fff;
+  border: 0px solid #fff;
   display: inline-block;
 }
 .round-outline .round-photo {
@@ -132,7 +132,7 @@ a:hover {
   font-size: 2em;
   width: 60px;
   height: 60px;
-  border: 2px solid #df5757;
+  border: 2px solid #cf6766;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
@@ -140,14 +140,14 @@ a:hover {
   background-clip: padding-box;
   background-color: transparent;
   line-height: 56px;
-  color: #df5757;
+  color: #cf6766;
   -webkit-transition: all 0.4s ease-out;
   -moz-transition: all 0.4s ease-out;
   -o-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
 }
 .icon-outline i:hover {
-  background-color: #df5757;
+  background-color: #cf6766;
   color: #fff;
   border: 2px solid #fff;
 }
@@ -327,7 +327,7 @@ Navigation Bar
   background-clip: padding-box;
 }
 .navbar .navbar-nav li a:hover {
-  background-color: #df5757;
+  background-color: #cf6766;
   outline: none;
   color: #fff;
 }
@@ -336,7 +336,7 @@ Navigation Bar
   outline: none;
 }
 .navbar .navbar-nav li:hover {
-  background-color: #df5757;
+  background-color: #cf6766;
   color: #fff;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -345,7 +345,7 @@ Navigation Bar
   background-clip: padding-box;
 }
 .navbar .navbar-nav .active {
-  background-color: #df5757;
+  background-color: #cf6766;
   color: #fff;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -413,7 +413,7 @@ Jumbotron Section
   padding: 100px 0 60px;
   margin-top: 0;
   margin-bottom: 0;
-  background: transparent url('../images/49.jpg') no-repeat top center;
+  background: transparent url('../images/50.jpg') no-repeat top center;
   background-size: auto 100%;
   background-attachment: fixed;
   font-size: 1em;
@@ -463,10 +463,10 @@ About Me Section
 }
 #about h1 {
   margin: 0 0 40px 0;
-  color: #579f6a;
+  color: #cf6766;
 }
 #about .round-outline {
-  border: 2px solid #e4e4e4;
+  border: 3px solid #cf6766;
   margin-bottom: 40px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -490,7 +490,7 @@ About Me Section
   background-clip: padding-box;
 }
 #about .round-outline .round-photo-anchor .round-caption-bg {
-  background-color: #df5757;
+  background-color: #cf6766;
   height: 90%;
   width: 90%;
   margin: 5%;
@@ -563,51 +563,51 @@ About Me Section
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  border: 2px solid #df5757;
+  border: 2px solid #cf6766;
   margin-top: 20px;
 }
 #about .social-icons .icon-facebook {
-  background: #ffffff url('../images/icon-facebook-red') center center no-repeat;
+  background: #ffffff url('../images/icon-facebook-red.png') center center no-repeat;
 }
 #about .social-icons .icon-facebook:hover {
-  background: #df5757 url('../images/icon-facebook-white.png') center center no-repeat;
+  background: #cf6766 url('../images/icon-facebook-white.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter {
   background: #ffffff url('../images/icon-twitter-red.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter:hover {
-  background: #df5757 url('../images/icon-twitter-white.png') center center no-repeat;
+  background: #cf6766 url('../images/icon-twitter-white.png') center center no-repeat;
 }
 #about .social-icons .icon-skype {
   background: #ffffff url('../images/icon-skype-red.png') center center no-repeat;
 }
 #about .social-icons .icon-skype:hover {
-  background: #df5757 url('../images/icon-skype-white.png') center center no-repeat;
+  background: #cf6766 url('../images/icon-skype-white.png') center center no-repeat;
 }
 #about .social-icons .icon-dribbble {
   background: #ffffff url('../images/icon-dribbble-red.png') center center no-repeat;
 }
 #about .social-icons .icon-dribbble:hover {
-  background: #df5757 url('../images/icon-dribbble-white.png') center center no-repeat;
+  background: #cf6766 url('../images/icon-dribbble-white.png') center center no-repeat;
 }
 #about .social-icons .icon-github {
   background: #ffffff url('../images/icon-github-red.png') center center no-repeat;
 }
 #about .social-icons .icon-github:hover {
-  background: #df5757 url('../images/icon-github-white.png') center center no-repeat;
+  background: #cf6766 url('../images/icon-github-white.png') center center no-repeat;
 }
 #about .social-icons .icon-stackoverflow {
   background: #ffffff url('../images/icon-stackoverflow-red.png') center center no-repeat;
 }
 #about .social-icons .icon-stackoverflow:hover {
-  background: #df5757 url('../images/icon-stackoverflow-white.png') center center no-repeat;
+  background: #cf6766 url('../images/icon-stackoverflow-white.png') center center no-repeat;
 }
 
 /* ==========================================================================
 Services Section
 ========================================================================== */
 #services {
-  background-color: #df5757;
+  background-color: #cf6766;
   text-align: center;
   padding: 100px 0;
   color: #fff;
@@ -636,15 +636,15 @@ Services Section
   height: 80px;
   width: 80px;
   display: inline-block;
-  background-color: #df5757;
+  background-color: #cf6766;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -webkit-box-shadow: inset 0 0 0 50px #df5757;
-  -moz-box-shadow: inset 0 0 0 50px #df5757;
-  box-shadow: inset 0 0 0 50px #df5757;
+  -webkit-box-shadow: inset 0 0 0 50px #cf6766;
+  -moz-box-shadow: inset 0 0 0 50px #cf6766;
+  box-shadow: inset 0 0 0 50px #cf6766;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -680,16 +680,16 @@ Services Section
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
 #services .service-column:hover {
-  background-color: #579f6a;
+  background-color: #8eaebd;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 #services .service-column:hover .service-icon {
   background-color: #fff;
-  -webkit-box-shadow: inset 0 0 0 0 #df5757;
-  -moz-box-shadow: inset 0 0 0 0 #df5757;
-  box-shadow: inset 0 0 0 0 #df5757;
+  -webkit-box-shadow: inset 0 0 0 0 #8eaebd;
+  -moz-box-shadow: inset 0 0 0 0 #8eaebd;
+  box-shadow: inset 0 0 0 0 #8eaebd;
   margin-top: 30px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -711,7 +711,7 @@ Services Section
   line-height: 80px;
   width: 100%;
   height: 100%;
-  color: #579f6a;
+  color: #8eaebd;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -723,7 +723,7 @@ Services Section
 Publications Section
 ========================================================================== */
 #publications {
-  background-color: #df5757;
+  background-color: #cf6766;
   text-align: center;
   padding: 100px 0;
   color: #fff;
@@ -741,7 +741,7 @@ Publications Section
 }
 
 #publications .description{
-  color: darkred;
+  color: #30415d  ;
   font-size: medium;
 }
 
@@ -762,15 +762,15 @@ Publications Section
   height: 80px;
   width: 80px;
   display: inline-block;
-  background-color: #df5757;
+  background-color: #cf6766;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -webkit-box-shadow: inset 0 0 0 50px #df5757;
-  -moz-box-shadow: inset 0 0 0 50px #df5757;
-  box-shadow: inset 0 0 0 50px #df5757;
+  -webkit-box-shadow: inset 0 0 0 50px #cf6766;
+  -moz-box-shadow: inset 0 0 0 50px #cf6766;
+  box-shadow: inset 0 0 0 50px #cf6766;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -806,16 +806,16 @@ Publications Section
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
 #publications .service-column:hover {
-  background-color: #579f6a;
+  background-color: #cf6766;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 #publications .service-column:hover .service-icon {
   background-color: #fff;
-  -webkit-box-shadow: inset 0 0 0 0 #df5757;
-  -moz-box-shadow: inset 0 0 0 0 #df5757;
-  box-shadow: inset 0 0 0 0 #df5757;
+  -webkit-box-shadow: inset 0 0 0 0 #cf6766;
+  -moz-box-shadow: inset 0 0 0 0 #cf6766;
+  box-shadow: inset 0 0 0 0 #cf6766;
   margin-top: 30px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -837,7 +837,7 @@ Publications Section
   line-height: 80px;
   width: 100%;
   height: 100%;
-  color: #579f6a;
+  color: #cf6766;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -874,7 +874,7 @@ Portfolio Section
   padding: 10px;
 }
 #portfolio .cat-list .active {
-  background-color: #df5757;
+  background-color: #cf6766;
   color: #fff;
 }
 #portfolio .resp-btn {
@@ -936,9 +936,9 @@ Portfolio Section
   transition: all 0.2s ease-out;
   transition-delay: 0.4s;
   -webkit-transition-delay: 0.4s;
-  -webkit-box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #579f6a;
-  -moz-box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #579f6a;
-  box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #579f6a;
+  -webkit-box-shadow: inset 0 0 0 6px #cf6766, inset 0 0 0 0 #cf6766;
+  -moz-box-shadow: inset 0 0 0 6px #cf6766, inset 0 0 0 0 #cf6766;
+  box-shadow: inset 0 0 0 6px #cf6766, inset 0 0 0 0 #cf6766;
 }
 #portfolio .portfolio-row .portfolio-mix .portfolio-item a .caption-bg::before {
   content: '';
@@ -947,9 +947,9 @@ Portfolio Section
   left: 0;
   width: 100%;
   height: 100%;
-  -webkit-box-shadow: inset 0 0 0 0 #579f6a;
-  -moz-box-shadow: inset 0 0 0 0 #579f6a;
-  box-shadow: inset 0 0 0 0 #579f6a;
+  -webkit-box-shadow: inset 0 0 0 0 #cf6766;
+  -moz-box-shadow: inset 0 0 0 0 #cf6766;
+  box-shadow: inset 0 0 0 0 #cf6766;
   -webkit-border-radius: 4px;
   border-radius: 4px;
   -moz-background-clip: padding;
@@ -1006,9 +1006,9 @@ Portfolio Section
 }
 #portfolio .portfolio-row .portfolio-mix .portfolio-item a:hover .caption-bg::before {
   content: '';
-  -webkit-box-shadow: inset 0 0 0 160px #579f6a;
-  -moz-box-shadow: inset 0 0 0 160px #579f6a;
-  box-shadow: inset 0 0 0 160px #579f6a;
+  -webkit-box-shadow: inset 0 0 0 160px #cf6766;
+  -moz-box-shadow: inset 0 0 0 160px #cf6766;
+  box-shadow: inset 0 0 0 160px #cf6766;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
@@ -1040,12 +1040,12 @@ Portfolio Section
   margin: 0 10px;
 }
 #portfolio .btn-outline-white {
-  color: #df5757;
+  color: #cf6766;
   text-transform: none;
-  border: 2px solid #df5757;
+  border: 2px solid #cf6766;
 }
 #portfolio .btn-outline-white:hover {
-  background-color: #df5757;
+  background-color: #cf6766;
   color: #fff;
 }
 #portfolio p .btn-outline-white {
@@ -1144,7 +1144,7 @@ Testimonials Section
 
 }
 .da-slide .da-img .round-outline {
-  border: 2px solid #579f6a;
+  border: 2px solid #cf6766;
   width: 116px;
   height: 116px;
   position: relative;
@@ -1206,7 +1206,7 @@ Testimonials Section
   top: 2px;
   left: 2px;
   border-radius: 50%;
-  background: #df5757;
+  background: #cf6766;
 }
 .da-arrows {
   -moz-user-select: none;
@@ -2327,7 +2327,7 @@ Testimonials Section
 Contact Section
 ========================================================================== */
 #contact {
-  background-color: #579f6a;
+  background-color: #8eaebd;
   text-align: center;
   padding: 100px 0;
   -webkit-box-shadow: inset 0 4px 0 rgba(0, 0, 0, 0.1);
@@ -2340,6 +2340,13 @@ Contact Section
 }
 #contact p {
   color: #fff;
+}
+#contact a:link {
+  color: #fff;
+  text-decoration: underline;
+}
+#contact a:hover {
+  color: #30415d;
 }
 #contact .icon {
   color: #fff;
@@ -2407,14 +2414,14 @@ Contact Section
 }
 #contact form button[type="submit"]:hover {
   background-color: #fff;
-  color: #579f6a;
+  color: #cf6766;
 }
 
 /* ==========================================================================
 Certificates Section
 ========================================================================== */
 #certificates {
-  background-color: #579f6a;
+  background-color: #8eaebd;
   text-align: center;
   padding: 100px 0;
   -webkit-box-shadow: inset 0 4px 0 rgba(0, 0, 0, 0.1);
@@ -2438,7 +2445,7 @@ Certificates Section
 
 #certificates .description{
   font-size: 16px;
-  color: #b6d5be;
+  color: #30415d;
 }
 
 #certificates p {
@@ -2512,18 +2519,18 @@ Certificates Section
 }
 #certificates form button[type="submit"]:hover {
   background-color: #fff;
-  color: #579f6a;
+  color: #cf6766;
 }
 
 /* ==========================================================================
 Footer Section
 ========================================================================== */
 .footer {
-  background-color: #467953;
+  background-color: #30415d;
   text-align: center;
 }
 .footer p {
-  color: #b6d5be;
+  color: #8eaebd;
   line-height: 1.666666666666667;
   margin: 25px 0;
 }
@@ -2549,7 +2556,7 @@ Footer Section
   opacity: 0;
 }
 .scrolltotop:hover {
-  color: #df5757;
+  color: #cf6766;
   background-color: #eee;
   -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
@@ -2650,7 +2657,7 @@ Media Queries
     width: 164px;
   }
   #about .round-outline .round-photo-anchor img {
-    margin: 4px;
+    margin: 0px;
   }
   #testimonials .da-slider {
     height: 300px;
@@ -2660,7 +2667,7 @@ Media Queries
 @media (min-width: 1200px) {
   .jumbotron {
     height: 100%;
-    background: transparent url('../images/49.jpg') no-repeat center center;
+    background: transparent url('../images/50.jpg') no-repeat center center;
     background-size: 100% auto;
     background-attachment: fixed;
   }

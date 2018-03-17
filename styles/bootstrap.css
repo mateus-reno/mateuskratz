@@ -414,6 +414,15 @@ h6 small,
   line-height: 1;
   color: #999999;
 }
+
+p small {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+p big {
+  background: rgba(0, 0, 0, 0.3);
+}
+
 h1,
 h2,
 h3 {
@@ -4157,6 +4166,7 @@ a.list-group-item.active > .badge,
   }
   .jumbotron h1 {
     font-size: 63px;
+    background: rgba(0, 0, 0, 0.3);
   }
 }
 .thumbnail {
