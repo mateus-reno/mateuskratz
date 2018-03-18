@@ -107,7 +107,7 @@ a:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  margin: 4px;
+  margin: 0px;
 }
 
 #contact .round-outline {
@@ -325,6 +325,13 @@ Navigation Bar
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
+}
+.navbar .navbar-download {
+background-color: #8eaebd;
+color: #30415d;
+}
+.navbar .navbar-download a {
+color: #30415d;
 }
 .navbar .navbar-nav li a:hover {
   background-color: #cf6766;
@@ -2327,7 +2334,7 @@ Testimonials Section
 Contact Section
 ========================================================================== */
 #contact {
-  background-color: #8eaebd;
+  background-color: #cf6766;
   text-align: center;
   padding: 100px 0;
   -webkit-box-shadow: inset 0 4px 0 rgba(0, 0, 0, 0.1);
@@ -2526,11 +2533,11 @@ Certificates Section
 Footer Section
 ========================================================================== */
 .footer {
-  background-color: #30415d;
+  background-color: #8eaebd;
   text-align: center;
 }
 .footer p {
-  color: #8eaebd;
+  color: #30415d;
   line-height: 1.666666666666667;
   margin: 25px 0;
 }
