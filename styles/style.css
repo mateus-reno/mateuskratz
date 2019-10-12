@@ -573,18 +573,7 @@ About Me Section
   border: 2px solid #cf6766;
   margin-top: 20px;
 }
-#about .social-icons .icon-facebook {
-  background: #ffffff url('../images/icon-facebook-red.png') center center no-repeat;
-}
-#about .social-icons .icon-facebook:hover {
-  background: #cf6766 url('../images/icon-facebook-white.png') center center no-repeat;
-}
-#about .social-icons .icon-twitter {
-  background: #ffffff url('../images/icon-twitter-red.png') center center no-repeat;
-}
-#about .social-icons .icon-twitter:hover {
-  background: #cf6766 url('../images/icon-twitter-white.png') center center no-repeat;
-}
+
 #about .social-icons .icon-skype {
   background: #ffffff url('../images/icon-skype-red.png') center center no-repeat;
 }
@@ -602,12 +591,6 @@ About Me Section
 }
 #about .social-icons .icon-github:hover {
   background: #cf6766 url('../images/icon-github-white.png') center center no-repeat;
-}
-#about .social-icons .icon-stackoverflow {
-  background: #ffffff url('../images/icon-stackoverflow-red.png') center center no-repeat;
-}
-#about .social-icons .icon-stackoverflow:hover {
-  background: #cf6766 url('../images/icon-stackoverflow-white.png') center center no-repeat;
 }
 
 /* ==========================================================================
@@ -2349,6 +2332,10 @@ Contact Section
   color: #fff;
 }
 #contact a:link {
+  color: #fff;
+  text-decoration: underline;
+}
+#contact a {
   color: #fff;
   text-decoration: underline;
 }
